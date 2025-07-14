@@ -2,8 +2,7 @@
   "name": "revreq",
   "private": true,
   "workspaces": [
-    "apps/*",
-    "packages/*"
+    "apps/*"
   ],
   "scripts": {
     "check": "biome check --write .",
