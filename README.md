@@ -1,4 +1,4 @@
-# RevReq.com
+# RevReq
 ## AI-Powered Feedback to Requirements Platform
 
 RevReq is an AI-powered SaaS platform that automatically transforms customer feedback into actionable product requirements with success predictions. This repository contains the starter template for building the full RevReq platform.
